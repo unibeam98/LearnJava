@@ -50,7 +50,7 @@ class ImageViewerFrame extends JFrame
             }
         });
 
-        var exitItem = new JMenuItem("Exit" );
+        var exitItem = new JMenuItem("." );
         menu.add(exitItem);
         exitItem.addActionListener(event -> System.exit(0));
     }
