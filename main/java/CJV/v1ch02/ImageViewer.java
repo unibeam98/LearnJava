@@ -18,7 +18,7 @@ public class ImageViewer {
 
 class ImageViewerFrame extends JFrame
 {
-    private static final int DEFAULT_WIDTH = 300;
+    private static final int DEFAULT_WIDTH = 200;
     private static final int DEFAULT_HEIGHT = 400;
 
     public ImageViewerFrame()
