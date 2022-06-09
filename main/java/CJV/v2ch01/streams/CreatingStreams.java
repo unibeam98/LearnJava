@@ -1,8 +1,5 @@
 package CJV.v2ch01.streams;
 
-import CJV.v1ch03.BigIntegerTest;
-
-import java.io.File;
 import java.io.IOException;
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;

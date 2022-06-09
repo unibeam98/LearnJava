@@ -3,7 +3,6 @@ package CJV.v1ch08.genericReflection;
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
-import java.text.Format;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;

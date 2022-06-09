@@ -1,6 +1,5 @@
 package CJV.v1ch06.clone;
 
-import java.time.LocalDate;
 import java.util.Date;
 import java.util.GregorianCalendar;
 

@@ -1,7 +1,5 @@
 package CJV.v1ch06.interfaces;
 
-import java.time.LocalDate;
-
 public class Employee implements Comparable<Employee>{
     private String name;
     private double salary;
