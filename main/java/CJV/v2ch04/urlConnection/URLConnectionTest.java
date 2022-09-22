@@ -1,4 +1,4 @@
-package CJV.v2ch4.urlConnection;
+package CJV.v2ch04.urlConnection;
 
 import java.io.IOException;
 import java.net.URL;

@@ -1,4 +1,4 @@
-package CJV.v2ch4.inetAddress;
+package CJV.v2ch04.inetAddress;
 
 import java.net.InetAddress;
 import java.net.UnknownHostException;

@@ -1,4 +1,4 @@
-package CJV.v2ch4.server;
+package CJV.v2ch04.server;
 
 import java.io.*;
 import java.net.ServerSocket;

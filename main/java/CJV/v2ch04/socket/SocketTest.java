@@ -1,4 +1,4 @@
-package CJV.v2ch4.socket;
+package CJV.v2ch04.socket;
 
 import java.io.IOException;
 import java.net.Socket;

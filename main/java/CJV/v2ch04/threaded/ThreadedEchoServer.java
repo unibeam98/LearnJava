@@ -1,4 +1,4 @@
-package CJV.v2ch4.threaded;
+package CJV.v2ch04.threaded;
 
 import java.io.*;
 import java.net.ServerSocket;

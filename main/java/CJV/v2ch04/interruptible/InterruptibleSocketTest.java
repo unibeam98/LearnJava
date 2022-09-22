@@ -1,4 +1,4 @@
-package CJV.v2ch4.interruptible;
+package CJV.v2ch04.interruptible;
 
 import javax.swing.*;
 import java.awt.*;
